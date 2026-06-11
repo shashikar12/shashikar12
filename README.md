@@ -3,7 +3,7 @@
 </p>
 
 ```ts
-@Controller('recruiters')
+@Controller('engineering')
 export class ShashikarSaurabhProfile {
   constructor(private readonly builder: ProductEngineeringService) {}
 
@@ -30,13 +30,6 @@ export class ShashikarSaurabhProfile {
 I am a Software Development Engineer who builds like a product thinker and codes like a problem solver. My strength is connecting backend engineering, modern frontend development, and AI automation to create software that is scalable, practical, and genuinely useful.
 
 I work with Java, Spring Boot, microservices, React.js, Next.js, Node.js, JavaScript, Dart, and AI-focused workflows including Generative AI, LLM applications, RAG, and automation systems. I am especially interested in building products where clean architecture, strong APIs, system design, and intelligent automation come together.
-
-## Recruiter Snapshot
-
-- SDE-focused engineer with strong interest in backend systems, full-stack development, and AI-powered products.
-- Comfortable building REST APIs, microservices, responsive interfaces, and automation-driven workflows.
-- Focused on 2026-ready engineering skills: cloud-native APIs, scalable system design, LLM applications, RAG, and agentic workflows.
-- Actively sharpening DSA, problem solving, and production-level development habits.
 
 ## Tech Stack
 

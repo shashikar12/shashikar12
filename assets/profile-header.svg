@@ -17,8 +17,8 @@
   <rect x="58" y="52" width="680" height="382" rx="18" fill="#4F535C" opacity="0.62"/>
 
   <text x="84" y="104" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="800">Hey, I'm Shashikar</text>
-  <rect x="84" y="124" width="290" height="30" rx="6" fill="url(#blue)"/>
-  <text x="101" y="144" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800" letter-spacing="1.2">BUILDING SOFTWARE WITH AI</text>
+  <rect x="84" y="124" width="310" height="30" rx="6" fill="url(#blue)"/>
+  <text x="101" y="144" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800" letter-spacing="1.2">BUILDING SCALABLE PRODUCTS</text>
 
   <text x="84" y="199" fill="#F2F4F7" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="600">
     <tspan x="84" dy="0">Software Development Engineer focused on scalable</tspan>

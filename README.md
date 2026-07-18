@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./assets/profile-pfp.svg" alt="Shashikar Saurabh profile picture" width="170" />
+</p>
+
+<p align="center">
   <img src="./assets/profile-header.svg" alt="Shashikar Saurabh profile banner" width="100%" />
 </p>
 
